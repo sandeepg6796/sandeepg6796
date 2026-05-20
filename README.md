@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br>I am a Commerce graduate with a strong foundation in data analysis, business intelligence, and machine learning.  <br>My expertise lies in transforming complex datasets into clear, actionable insights that support strategic decision‑making.  <br><br>- Skilled in Python, SQL, and advanced Excel for data cleaning, statistical analysis, and automation.  <br>- Experienced with visualization tools such as Power BI and Tableau to design interactive dashboards and reports.  <br>- Knowledgeable in machine learning techniques including regression, decision trees, random forests, and clustering.  <br>- Passionate about leveraging data to identify trends, optimize performance, and drive business growth.  <br><br>Currently, I am seeking opportunities to apply my analytical skills in real‑world projects and contribute to data‑driven organizations.<br>
+## 👨‍💻 About Me<br>I am a Commerce graduate with a strong foundation in data analysis, business intelligence, and machine learning.  <br>My expertise lies in transforming complex datasets into clear, actionable insights that support strategic decision‑making.
 
 
 ## 🌐 Socials:
